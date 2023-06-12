@@ -1,4 +1,4 @@
-# Beauty
+# Be Beauty - https://be-beauty.onrender.com
 
 Plataforma web de um salão de beleza.\
 - Formas de contato,
